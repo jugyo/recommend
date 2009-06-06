@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.date = %q{2009-06-06}
   s.description = %q{Library for recommendation.}
   s.email = %q{jugyo.org@gmail.com}
-  s.files = ["Rakefile", "README.rdoc", "lib/recommend.rb", "spec/recommend_spec.rb"]
+  s.files = ["Rakefile", "README.rdoc", "lib/recommend.rb", "spec/recommend_spec.rb", "examples/example1.rb"]
   s.homepage = %q{http://github.com/jugyo/recommend}
   s.require_paths = ["lib"]
   s.rubyforge_project = %q{recommend}
