@@ -1,0 +1,7 @@
+= recommend
+
+http://github.com/jugyo/recommend
+
+== DESCRIPTION:
+
+Library for recommendation.
